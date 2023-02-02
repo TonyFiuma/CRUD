@@ -26,4 +26,3 @@
     * deleting a specific `Car`
     * trying to delete an absent `Car`
     * deleting all the db
-* **note for reviewers**: view `CarCRUD.postman_collection.json` in the root folder for all the `Postman` calls
